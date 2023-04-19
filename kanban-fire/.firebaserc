@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kabanfire-fbf3a": {
+      "hosting": {
+        "kanban-fire": [
+          "kabanfire-fbf3a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kabanfire-fbf3a"
+  }
+}
